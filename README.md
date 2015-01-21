@@ -1,5 +1,7 @@
 [![Build Status](https://secure.travis-ci.org/intuit/bundler-cookbook.png)](http://travis-ci.org/intuit/bundler-cookbook)
 
+**!!! This project has been deprecated.  We recommend you search the [Chef Supermarket ](https://supermarket.chef.io/) for a supported alternative !!!**
+
 # bundler cookbook
 Configures bundler
 
